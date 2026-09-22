@@ -1,0 +1,1 @@
+# validador-escuela-especial
